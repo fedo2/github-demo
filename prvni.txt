@@ -1,1 +1,2 @@
 První řádek v souboru
+Druhý řádek
